@@ -1,4 +1,4 @@
-# ncbi_accessions_api
+# ncbi_accessions
 
 This repository contains the code for an API built with FastAPI to fetch GenBank accession numbers via NCBI E-Utilities. The API can be used to retrieve accession information based on a search term, offering a simple and efficient way to interact with GenBank data.
 
